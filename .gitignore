@@ -1,0 +1,11 @@
+# Whitelist
+!README.md
+!.gitignore
+
+# Blacklist
+Proposal/howtostart.txt
+Proposal/todo.txt
+Proposal/timelinechart.pdf
+Proposal/proposal.pdf
+Sandbox
+Proposal/.Rhistory
